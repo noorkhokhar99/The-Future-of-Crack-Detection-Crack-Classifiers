@@ -10,4 +10,4 @@ The Future of Crack Detection: Crack Classifiers
 
 
 
-download model and put into model folder: https://drive.google.com/file/d/1p7S0NbvpAFY5Z8kO3i99sJS0IBkI93Rs/view?usp=sharing
+download the model and put it into the model folder: https://drive.google.com/file/d/1p7S0NbvpAFY5Z8kO3i99sJS0IBkI93Rs/view?usp=sharing
